@@ -1,0 +1,8 @@
+{
+  "name": "Remix StitchwellLane",
+  "description": "Premium modern Indian clothing brand for men and women. Minimalist luxury apparel, fine tailored essentials, and seamless INR shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
